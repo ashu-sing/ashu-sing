@@ -10,11 +10,11 @@ I'm a Computer Science & Engineering student from India, a full stack web develo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i_sanjay121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_sanjay121" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/i-sanjay121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-sanjay121" height="30" width="40" /></a>
-<a href="https://instagram.com/i_sanjay121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_sanjay121" height="30" width="40" /></a>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh2030" height="30" width="40" /></a>
+<a href="https://instagram.com/ashutosh_singh_2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_singh_2030" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/i_sanjay121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_sanjay121" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/i_sanjay121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="i_sanjay121" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/i_sanjay121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="i_sanjay121" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/ashu-sing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashu-sing" height="30" width="40" /></a>
 </p>
 
